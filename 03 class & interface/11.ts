@@ -1,4 +1,4 @@
-/// 
+/// class & interface
 {
     type Point = {
         x: number,
