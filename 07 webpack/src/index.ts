@@ -1,1 +1,1 @@
-alert('nibiiro yurushi')
+alert('初めまして、nibiiro yurushi　と申します！')
