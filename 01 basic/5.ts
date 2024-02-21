@@ -1,0 +1,1 @@
+let ys = 'nibiiro yurushi';
